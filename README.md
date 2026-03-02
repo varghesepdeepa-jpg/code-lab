@@ -8,6 +8,6 @@
 ---
 
 ## 📊 My Activity
-[!["DJ1G2's GitHub stats"](https://github-readme-stats.vercel.app/api?username=deepz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[!["DJ1G2's GitHub stats"](https://github-readme-stats.vercel.app/api?username=DJ1G2&show_icons=true&theme=radical)](https://github.com/DJ1G2/github-readme-stats)
 
 ---
