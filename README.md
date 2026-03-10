@@ -12,8 +12,7 @@
 
 ### 📈 Current Git Lab Stats
 * **Repo Initialized:** March 02, 2026
-* **Current Branch:** `main`
-* **Latest Milestone:** Verified Git Version & First Commit
+* **Latest Milestone:** Verified Git Version 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
