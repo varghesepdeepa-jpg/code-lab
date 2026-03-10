@@ -1,7 +1,7 @@
 # 🚀 code-lab 
 
 # 💫 About Me:
-🔭 I’m currently working on Full stack .NET Journey<br>👯 I’m looking to collaborate on Open-source .NET projects or simple HTML/CSS landing pages.<br>🤝 I’m looking for help with Best practices for clean code and SOLID principles.<br>🌱 I’m currently learning Frontend and the and the .NET ecosystem<br>
+🔭 I’m currently working on Full stack .NET Journey<br>👯 Open-source .NET contributions or crafting responsive frontend landing pages.<br>🤝 I’m looking for help with Best practices for clean code and SOLID principles.<br>🌱 Deep-diving into the .NET ecosystem and modern Frontend frameworks.<br>
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varghesepDeepa@gmail.com) 
 
