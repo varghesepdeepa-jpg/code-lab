@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HangmanConsole": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
