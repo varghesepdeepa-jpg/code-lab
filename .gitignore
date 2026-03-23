@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/HangmanConsole
+/CalculatorConsole/.vs/CalculatorConsole/CopilotIndices/18.4.106.63888
+/CalculatorConsole/CalculatorConsole.Tests/bin/Debug/net10.0
